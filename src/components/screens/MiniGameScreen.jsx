@@ -114,6 +114,7 @@ export default function MiniGameScreen({ onNext }) {
         return () => {
             if (requestRef.current) cancelAnimationFrame(requestRef.current);
         };
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [phase]);
 
     const handlePointerMove = (e) => {

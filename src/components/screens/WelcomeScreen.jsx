@@ -18,7 +18,7 @@ export default function WelcomeScreen({ onNext }) {
             />
 
             <h1 className="stroke-text" style={{ fontSize: '2.5rem', marginBottom: '16px' }}>
-                Привет, Мадина! 🌸
+                Привет, Рая! 🌸
             </h1>
 
             <p className="stroke-text pangolin-font" style={{ fontSize: '1.4rem', marginBottom: '32px' }}>

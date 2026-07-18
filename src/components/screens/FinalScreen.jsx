@@ -74,12 +74,12 @@ export default function FinalScreen() {
                     <TenorGif postId="26958685" width={180} height={180} />
 
                     <h1 className="stroke-text title-font" style={{ fontSize: '2.5rem', textAlign: 'center', lineHeight: '1.2', marginTop: '16px', marginBottom: '12px' }}>
-                        С 8 МАРТА! 🌸
+                        ДЛЯ ТЕБЯ, РАЯ! 🌸
                     </h1>
 
                     <p className="stroke-text" style={{ fontSize: '1rem', textAlign: 'center', marginBottom: '24px', lineHeight: '1.5', fontFamily: '"Nunito", sans-serif' }}>
                         Желаю тебе улыбок, тепла и классного настроения!<br />
-                        Пусть этот день будет особенным! 🌷
+                        Пусть каждый твой день будет особенным! ✨
                     </p>
 
                     <p className="stroke-text" style={{ fontSize: '0.85rem', textAlign: 'center', marginBottom: '20px', opacity: 0.8, fontFamily: '"Nunito", sans-serif' }}>
@@ -121,7 +121,7 @@ export default function FinalScreen() {
                         Спасибо! 💖
                     </h2>
                     <p className="stroke-text" style={{ fontSize: '1.1rem', lineHeight: '1.6', fontFamily: '"Nunito", sans-serif' }}>
-                        С праздником! 🌸✨
+                        Ты просто чудо! 💖✨
                     </p>
                 </motion.div>
             )}
